@@ -4,4 +4,8 @@ I'm a student from Nanjing University in China, and I'm interested in learning&r
 
 There is my [blog](http://franktiantt.github.io/) which is deployed in Github's server, and you can visit [this](http://blog.franktian.xyz/) in China.
 
+Come look at my GitHub record:
+
 ![FrankTianTT's github stats](https://github-readme-stats.vercel.app/api?username=FrankTianTT&show_icons=true&count_private=true&theme=tokyonight)
+
+You can contact with me by [qq-mail](franktian424@qq.com) or [gmail](franktian424@gmail.com), however the latter one is not checked often.
