@@ -10,7 +10,3 @@ You can contact with me by [qq-mail](mailto:franktian424@qq.com) or [gmail](mail
 Come look at my GitHub record:
 
 ![FrankTianTT's github stats](https://github-readme-stats.vercel.app/api?username=FrankTianTT&show_icons=true&count_private=true&theme=tokyonight)
-
-and my top language stats:
-
-![FrankTianTT's GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankTianTT&layout=compact)
