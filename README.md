@@ -1,6 +1,6 @@
 Hi 👋, I'm Frank Tian.
 
-I'm a student from Nanjing University in China, and I'm interested in learning&researching Artificial Intelligence, specially Deep Reinforcement Learning right now.
+I'm a student from Nanjing University in China, and I'm interested in Artificial Intelligence, specially Deep Reinforcement Learning and Causal Inference&Discovery right now.
 
 There is my [blog](http://franktiantt.github.io/) which is deployed in Github's server. Just in case, I've also deployed my site on Gitee, which you can click [here](http://franktian424.gitee.io/) to visit, but I don't often update it. (free accounts need to be updated manually:(
 
